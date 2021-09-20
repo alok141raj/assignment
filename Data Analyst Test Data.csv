@@ -1,0 +1,17 @@
+ID,ExpWit1_Expertise,ExpWit2_Expertise,ExpWit3_Expertise,ExpWit4_Expertise,ExpWit5_Expertise,ExpWit1_EvidenceTreat,ExpWit2_EvidenceTreat,ExpWit3_EvidenceTreat,ExpWit4_EvidenceTreat,ExpWit5_EvidenceTreat
+3,,,,,,,,,,
+62,,,,,,,,,,
+102,Legal,Legal,Legal,Legal,,Reliance,Reliance,Reliance,Reliance,
+136,Legal,Legal,,Legal,Legal,Reliance,Reliance,No analysis/reliance,No analysis/reliance,No analysis/reliance
+176,,,,,,,,,,
+179,Legal,Damages,Damages,Damages,Legal,Disagreement,Reliance,Reliance,Disagreement,No analysis/reliance
+180,Technical,Damages,Damages,Damages,Damages,Disagreement,Disagreement,Disagreement,Disagreement,Disagreement
+181,Technical,Technical,Damages,Technical,Technical,No analysis/reliance,No analysis/reliance,Disagreement,Disagreement,No analysis/reliance
+188,Technical,Technical,Damages,Technical,Technical,No analysis/reliance,No analysis/reliance,Disagreement,Disagreement,No analysis/reliance
+240,,,,,,,,,,
+241,Damages,Damages,,,,Reliance,No analysis/reliance,,,
+242,Legal,,,,,No analysis/reliance,,,,
+243,Technical,Technical,,,,Reliance,No analysis/reliance,,,
+244,Damages,Damages,,,,No analysis/reliance,No analysis/reliance,,,
+245,Legal,Damages,Technical,Damages,Damages,Reliance,Reliance,Reliance,Reliance,Reliance
+246,Damages,Damages,,,,No analysis/reliance,No analysis/reliance,,,
